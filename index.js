@@ -1,5 +1,5 @@
 function createPost(){
-  let ti=document.getElementById('').value
+  let ti=document.getElementById('postTitle').value
 }
 
 function postComment(){
