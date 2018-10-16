@@ -1,5 +1,5 @@
 function createPost(){
-  let ti=document.getElementById('')
+  let ti=document.getElementById('').value
 }
 
 function postComment(){
