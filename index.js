@@ -6,5 +6,5 @@ function createPost(){
 
 function postComment(){
   let name=document.getElementById('commenterName').value;
-  let comment=document.getElementById('postTitle').value;
+  let comment=document.getElementById('commentText').value;
 }
